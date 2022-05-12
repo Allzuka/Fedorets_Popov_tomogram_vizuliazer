@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fedorets_Popov_tomogram_vizuliazer", "Fedorets_Popov_tomogram_vizuliazer\Fedorets_Popov_tomogram_vizuliazer.csproj", "{2FE9155A-6745-4823-9198-BAE4134CD27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE9155A-6745-4823-9198-BAE4134CD27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE9155A-6745-4823-9198-BAE4134CD27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE9155A-6745-4823-9198-BAE4134CD27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE9155A-6745-4823-9198-BAE4134CD27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {222BBBF3-7C3A-4C96-9178-39C299E848D0}
+	EndGlobalSection
+EndGlobal
